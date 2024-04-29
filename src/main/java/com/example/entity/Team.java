@@ -11,4 +11,6 @@ public class Team {
 	private String address;
 	private Double salary;
 	private String Player;
+	private Long tNo;
+	
 }
