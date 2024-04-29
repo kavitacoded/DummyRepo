@@ -9,5 +9,5 @@ public class Team {
 	private Integer id;
 	private String name;
 	private String address;
-	
+	private Double salary;
 }
